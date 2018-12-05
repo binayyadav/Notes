@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<note version="0.3" xmlns:link="http://beatniksoftware.com/tomboy/link" xmlns:size="http://beatniksoftware.com/tomboy/size" xmlns="http://beatniksoftware.com/tomboy">
+  <title>Boston Engg</title>
+  <text xml:space="preserve"><note-content version="0.1">Boston Engg
+
+
+<bold><size:large>Sept 4 , 2018</size:large></bold>
+
+<list><list-item dir="ltr"> Floor plan - new scope.
+</list-item><list-item dir="ltr"> Read process definition on machine UI.
+</list-item><list-item dir="ltr"> Scheduling screen change. dt -&gt; Protocol-&gt;module type-&gt; time slot available.
+</list-item><list-item dir="ltr"> alerts for wear and tear parts.</list-item></list>
+
+<bold><size:large>Client call Sept 5, 2018</size:large></bold>  <bold><size:large>- Meeting Notes</size:large></bold>
+
+<list><list-item dir="ltr"> </list-item></list>
+
+<bold><size:large>Client call Sept 12, 2018</size:large></bold>  <bold><size:large>- Meeting Notes</size:large></bold>
+
+<list><list-item dir="ltr"> Agenda deployment architecture and setup instructions.
+</list-item><list-item dir="ltr"> Make the serial number available to the customer in encrypted form
+</list-item><list-item dir="ltr"> Would there be some way that the devices work offline.
+</list-item><list-item dir="ltr">  Next week full version of all the HTML based on Mock-ups.
+</list-item><list-item dir="ltr">  The click functionality must be available on the designs which we will be delivering to Boston. </list-item></list>
+
+
+<bold><size:large>Client call Sept 19, 2018</size:large></bold>  <bold><size:large>- Meeting Notes</size:large></bold>
+
+<list><list-item dir="ltr"> </list-item></list>
+
+<bold><size:large>Client call Sept 26, 2018</size:large></bold>  <bold><size:large>- Meeting Notes</size:large></bold>
+.
+<list><list-item dir="ltr">Machine related QML and C++ binding.
+</list-item><list-item dir="ltr"> HTML to follow up and later on after the module placement is done.
+</list-item><list-item dir="ltr"> Button navigation in the UI navigation.
+</list-item><list-item dir="ltr"> Can we add button level navigation in <link:internal>QT</link:internal> via QML.
+</list-item><list-item dir="ltr"> </list-item></list>
+
+<bold><size:large>Client call Oct 3, 2018</size:large></bold>  <bold><size:large>- Meeting Notes</size:large></bold>
+
+<list><list-item dir="ltr"> Protocol between the device and digital platform.
+</list-item><list-item dir="ltr">Need to discuss the device communication piece.
+</list-item><list-item dir="ltr">How to add AMS modules to Digital Platform.
+</list-item><list-item dir="ltr">Basic discussion on Setup architecture.
+</list-item><list-item dir="ltr"> Send Scott a flow document  of how the setup happens.
+</list-item><list-item dir="ltr">Send guy use cases.</list-item></list>
+
+<bold><size:large>Client call Oct 24, 2018</size:large></bold>  <bold><size:large>- Meeting Notes</size:large></bold>
+
+<list><list-item dir="ltr">Hardware communication document still under review was the starting topic of discussion .
+</list-item><list-item dir="ltr">Tracking the consumable materials, that we need to log in to the digital platform.
+</list-item><list-item dir="ltr"><bold>Need to cover firefox and safar</bold>i for UI  validation.</list-item></list>
+<bold><size:large>Client call Oct 31, 2018</size:large></bold>  <bold><size:large>- Meeting Notes</size:large></bold> (Millipore members also joined from today)
+
+<list><list-item dir="ltr">Any way how we can maintain the digital platform.
+</list-item><list-item dir="ltr">Client giving a admin access to the customers , for definitive time period.
+</list-item><list-item dir="ltr">Release note is very important as we maintain the server.
+</list-item><list-item dir="ltr">We have to be very strict and maintain release management system.
+</list-item><list-item dir="ltr">Expected functionality of the latest release to be managed well.
+</list-item><list-item dir="ltr">Adding further updates will be take four weeks down the line.
+</list-item><list-item dir="ltr">Some other layout process, available in the market we should not be using it then main reason is the integrating issues.
+</list-item><list-item dir="ltr">Some marking of the scheduling tools.
+</list-item><list-item dir="ltr">Process development screens, and deep dive into the methodology.
+</list-item><list-item dir="ltr"><bold>NEXT Connect</bold>
+<list><list-item dir="ltr">Asking soura what is it.
+</list-item></list></list-item><list-item dir="ltr">Manage Escalations
+<list><list-item dir="ltr">How do you notify someone , when there is no digital platform and want to escalate things to the line manager as per Sam email notification from the machine.
+</list-item><list-item dir="ltr">Line manager to not to be made mandatory, at the time of making schedule.
+</list-item><list-item dir="ltr">Schedule to have no relation with how the actual run is going to happen.
+</list-item><list-item dir="ltr">Floor Manager to be notified at the time of schedule
+</list-item></list></list-item><list-item dir="ltr">Location Management on the design
+</list-item><list-item dir="ltr">Publish Subscribe Method to be discussed how manage the topics.</list-item></list>
+
+<bold><size:large>Client call November 22, 2018</size:large></bold>  <bold><size:large>- Meeting Notes</size:large></bold>
+
+<list><list-item dir="ltr">Local vs Global recipe's 
+</list-item><list-item dir="ltr"></list-item></list>
+
+
+
+
+</note-content></text>
+  <last-change-date>2018-11-21T19:04:17.7454460+05:30</last-change-date>
+  <last-metadata-change-date>2018-11-21T19:04:17.7454460+05:30</last-metadata-change-date>
+  <create-date>2018-09-04T11:00:55.9454680+05:30</create-date>
+  <cursor-position>2861</cursor-position>
+  <selection-bound-position>2864</selection-bound-position>
+  <width>960</width>
+  <height>992</height>
+  <x>960</x>
+  <y>27</y>
+  <tags>
+    <tag>system:notebook:binay_work</tag>
+  </tags>
+  <open-on-startup>False</open-on-startup>
+</note>

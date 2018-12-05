@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<note version="0.3" xmlns:link="http://beatniksoftware.com/tomboy/link" xmlns:size="http://beatniksoftware.com/tomboy/size" xmlns="http://beatniksoftware.com/tomboy">
+  <title>Boston Engg</title>
+  <text xml:space="preserve"><note-content version="0.1">Boston Engg
+
+
+<bold><size:large>Sept 4 , 2018</size:large></bold>
+
+<list><list-item dir="ltr"> Floor plan - new scope.
+</list-item><list-item dir="ltr"> Read process definition on machine UI.
+</list-item><list-item dir="ltr"> Scheduling screen change. dt -&gt; Protocol-&gt;module type-&gt; time slot available.
+</list-item><list-item dir="ltr"> alerts for wear and tear parts.</list-item></list>
+
+<bold><size:large>Client call Sept 5, 2018</size:large></bold>  <bold><size:large>- Meeting Notes</size:large></bold>
+
+<list><list-item dir="ltr"> </list-item></list>
+
+<bold><size:large>Client call Sept 12, 2018</size:large></bold>  <bold><size:large>- Meeting Notes</size:large></bold>
+
+<list><list-item dir="ltr"> Agenda deployment architecture and setup instructions.
+</list-item><list-item dir="ltr"> Make the serial number available to the customer in encrypted form
+</list-item><list-item dir="ltr"> Would there be some way that the devices work offline.
+</list-item><list-item dir="ltr">  Next week full version of all the HTML based on Mock-ups.
+</list-item><list-item dir="ltr">  The click functionality must be available on the designs which we will be delivering to Boston. </list-item></list>
+
+
+
+<link:url>/home/admin-lattice/Pictures/1.png</link:url></note-content></text>
+  <last-change-date>2018-09-12T17:51:08.9138320+05:30</last-change-date>
+  <last-metadata-change-date>2018-09-12T17:51:08.9220100+05:30</last-metadata-change-date>
+  <create-date>2018-09-04T11:00:55.9454680+05:30</create-date>
+  <cursor-position>683</cursor-position>
+  <selection-bound-position>683</selection-bound-position>
+  <width>960</width>
+  <height>990</height>
+  <x>859</x>
+  <y>100</y>
+  <tags>
+    <tag>system:notebook:binay_work</tag>
+  </tags>
+  <open-on-startup>True</open-on-startup>
+</note>

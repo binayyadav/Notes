@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<note version="0.3" xmlns:link="http://beatniksoftware.com/tomboy/link" xmlns:size="http://beatniksoftware.com/tomboy/size" xmlns="http://beatniksoftware.com/tomboy">
+  <title>Coursera - A developers guide to IOT</title>
+  <text xml:space="preserve"><note-content version="0.1">Coursera - A developers guide to IOT
+
+
+<bold>Prerequisites</bold>
+<list><list-item dir="ltr">Hardware
+<list><list-item dir="ltr">Raspberry pi
+</list-item><list-item dir="ltr">SenseHAT</list-item></list></list-item></list>
+
+<list><list-item dir="ltr">Software
+<list><list-item dir="ltr">Nodejs
+</list-item><list-item dir="ltr">Cloud Foundry CLI
+</list-item></list></list-item><list-item dir="ltr"></list-item></list>
+
+
+
+Describe your new note here.</note-content></text>
+  <last-change-date>2018-10-09T17:14:21.7570610+05:30</last-change-date>
+  <last-metadata-change-date>2018-10-09T17:14:21.7570610+05:30</last-metadata-change-date>
+  <create-date>2018-10-09T17:11:26.8894980+05:30</create-date>
+  <cursor-position>52</cursor-position>
+  <selection-bound-position>133</selection-bound-position>
+  <width>450</width>
+  <height>360</height>
+  <x>1320</x>
+  <y>27</y>
+  <open-on-startup>False</open-on-startup>
+</note>
